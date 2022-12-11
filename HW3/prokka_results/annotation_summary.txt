@@ -1,0 +1,5 @@
+80	tRNAs
+0	rRNAs
+1	CRISPRs
+5064	CDS
+2923	Unique gene codes

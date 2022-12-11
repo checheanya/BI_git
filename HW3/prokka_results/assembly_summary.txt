@@ -1,0 +1,3 @@
+Assembly length	5390599
+#contigs	247
+Contig N50	335515
