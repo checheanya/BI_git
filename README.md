@@ -8,3 +8,5 @@ List of the problems:
 
 * Project #1. “What causes antibiotic resistance?”  (Alignment to reference, variant calling)
 * Project #2. “Why did I get the flu?” (Deep sequencing, error control, p-value, viral evolution)
+* Project #3. “*E.coli* outbreak investigation” (De novo assembly)
+* Project #4. “Tardigrades: from genestealers to space marines“ (Eukaryotic genome analysis)
