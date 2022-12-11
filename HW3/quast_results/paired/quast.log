@@ -1,0 +1,82 @@
+/home/anna/miniconda3/envs/quast_env/bin/quast.py -o quast_results/ spades_results/contigs.fasta -s spades_results/scaffolds.fasta -t 12
+
+Version: 5.2.0
+
+System information:
+  OS: Linux-5.10.102.1-microsoft-standard-WSL2-x86_64-with-debian-buster-sid (linux_64)
+  Python version: 2.7.18
+  CPUs number: 4
+
+Started: 2022-12-10 17:59:49
+
+Logging to /home/anna/BI/Practice_course/Workshop_git/HW3/quast_results/quast.log
+
+CWD: /home/anna/BI/Practice_course/Workshop_git/HW3
+Main parameters: 
+  MODE: default, threads: 12, split scaffolds: true, min contig length: 500, min alignment length: 65, \
+  min alignment IDY: 95.0, ambiguity: one, min local misassembly length: 200, min extensive misassembly length: 1000
+
+Contigs:
+  Pre-processing...
+  1  spades_results/contigs.fasta ==> contigs
+  1    breaking scaffolds into contigs:
+  1      WARNING: nothing was broken, skipping 'contigs broken' from further analysis
+  2  spades_results/scaffolds.fasta ==> scaffolds
+  2    breaking scaffolds into contigs:
+  2      221 scaffolds (scaffolds) were broken into 223 contigs (scaffolds_broken)
+
+2022-12-10 17:59:52
+Running Basic statistics processor...
+  Contig files: 
+    1  contigs
+    2  scaffolds
+    3  scaffolds_broken
+  Calculating N50 and L50...
+    1  contigs, N50 = 111860, L50 = 14, auN = 131921.2, Total length = 5295721, GC % = 50.56, # N's per 100 kbp =  0.00
+    2  scaffolds, N50 = 111860, L50 = 14, auN = 131704.5, Total length = 5304595, GC % = 50.53, # N's per 100 kbp =  33.74
+    3  scaffolds_broken, N50 = 111860, L50 = 14, auN = 131826.0, Total length = 5299555, GC % = 50.54, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/anna/BI/Practice_course/Workshop_git/HW3/quast_results/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/anna/BI/Practice_course/Workshop_git/HW3/quast_results/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/anna/BI/Practice_course/Workshop_git/HW3/quast_results/basic_stats/GC_content_plot.pdf
+  Drawing contigs GC content plot...
+    saved to /home/anna/BI/Practice_course/Workshop_git/HW3/quast_results/basic_stats/contigs_GC_content_plot.pdf
+  Drawing scaffolds GC content plot...
+    saved to /home/anna/BI/Practice_course/Workshop_git/HW3/quast_results/basic_stats/scaffolds_GC_content_plot.pdf
+  Drawing scaffolds_broken GC content plot...
+    saved to /home/anna/BI/Practice_course/Workshop_git/HW3/quast_results/basic_stats/scaffolds_broken_GC_content_plot.pdf
+  Drawing Coverage histogram (bin size: 1x)...
+    saved to /home/anna/BI/Practice_course/Workshop_git/HW3/quast_results/basic_stats/coverage_histogram.pdf
+  Drawing contigs coverage histogram (bin size: 1x)...
+    saved to /home/anna/BI/Practice_course/Workshop_git/HW3/quast_results/basic_stats/contigs_coverage_histogram.pdf
+  Drawing scaffolds coverage histogram (bin size: 1x)...
+    saved to /home/anna/BI/Practice_course/Workshop_git/HW3/quast_results/basic_stats/scaffolds_coverage_histogram.pdf
+  Drawing scaffolds_broken coverage histogram (bin size: 1x)...
+    saved to /home/anna/BI/Practice_course/Workshop_git/HW3/quast_results/basic_stats/scaffolds_broken_coverage_histogram.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2022-12-10 17:59:56
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating PDF with all tables and plots...
+  2 of 2: Creating Icarus viewers...
+Done
+
+2022-12-10 17:59:57
+RESULTS:
+  Text versions of total report are saved to /home/anna/BI/Practice_course/Workshop_git/HW3/quast_results/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/anna/BI/Practice_course/Workshop_git/HW3/quast_results/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/anna/BI/Practice_course/Workshop_git/HW3/quast_results/report.html
+  PDF version (tables and plots) is saved to /home/anna/BI/Practice_course/Workshop_git/HW3/quast_results/report.pdf
+  Icarus (contig browser) is saved to /home/anna/BI/Practice_course/Workshop_git/HW3/quast_results/icarus.html
+  Log is saved to /home/anna/BI/Practice_course/Workshop_git/HW3/quast_results/quast.log
+
+Finished: 2022-12-10 17:59:57
+Elapsed time: 0:00:08.229696
+NOTICEs: 1; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
