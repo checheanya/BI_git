@@ -1,0 +1,24 @@
+##gff-version 3
+NODE_184_length_223_cov_0.720238_ID_565088	barrnap:0.9	rRNA	95	205	5.6e-18	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NODE_1_length_2815616_cov_74.3819_ID_564387	barrnap:0.9	rRNA	322892	323002	2.2e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NODE_1_length_2815616_cov_74.3819_ID_564387	barrnap:0.9	rRNA	323101	326001	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NODE_1_length_2815616_cov_74.3819_ID_564387	barrnap:0.9	rRNA	326359	327896	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NODE_1_length_2815616_cov_74.3819_ID_564387	barrnap:0.9	rRNA	592162	592272	6.1e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NODE_1_length_2815616_cov_74.3819_ID_564387	barrnap:0.9	rRNA	592407	592517	2.2e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NODE_1_length_2815616_cov_74.3819_ID_564387	barrnap:0.9	rRNA	592616	595516	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NODE_1_length_2815616_cov_74.3819_ID_564387	barrnap:0.9	rRNA	595966	597503	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NODE_1_length_2815616_cov_74.3819_ID_564387	barrnap:0.9	rRNA	2500844	2500954	2.2e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NODE_1_length_2815616_cov_74.3819_ID_564387	barrnap:0.9	rRNA	2501053	2503953	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NODE_1_length_2815616_cov_74.3819_ID_564387	barrnap:0.9	rRNA	2504403	2505940	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NODE_5_length_236041_cov_85.7779_ID_563492	barrnap:0.9	rRNA	43835	45372	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NODE_5_length_236041_cov_85.7779_ID_563492	barrnap:0.9	rRNA	45873	48630	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NODE_5_length_236041_cov_85.7779_ID_563492	barrnap:0.9	rRNA	48983	49084	5.5e-10	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NODE_5_length_236041_cov_85.7779_ID_563492	barrnap:0.9	rRNA	85462	86999	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NODE_5_length_236041_cov_85.7779_ID_563492	barrnap:0.9	rRNA	87500	90257	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NODE_5_length_236041_cov_85.7779_ID_563492	barrnap:0.9	rRNA	90356	90466	2.2e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NODE_6_length_209194_cov_80.6603_ID_563563	barrnap:0.9	rRNA	111955	113492	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NODE_6_length_209194_cov_80.6603_ID_563563	barrnap:0.9	rRNA	113850	116750	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NODE_6_length_209194_cov_80.6603_ID_563563	barrnap:0.9	rRNA	116849	116959	2.2e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NODE_71_length_720_cov_1.1218_ID_565136	barrnap:0.9	rRNA	314	719	9.8e-23	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 25 percent of the 16S ribosomal RNA
+NODE_9_length_87669_cov_86.9393_ID_563775	barrnap:0.9	rRNA	84700	84810	2.2e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NODE_9_length_87669_cov_86.9393_ID_563775	barrnap:0.9	rRNA	84909	87664	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
