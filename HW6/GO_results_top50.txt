@@ -1,0 +1,602 @@
+
+Your input list contains 49 genes.
+
+These 1 identifiers were found to be unannotated: YLR264C
+
+These 4 identifiers had no non-root annotations: YBL028C YML018C YGR079W YLR327C
+
+GO slim terms from the biological_process ontology.
+
+TERM	rRNA processing
+GOID	GO:0006364
+NUM_ANNOTATIONS	: 13 of 48 genes (27.08%)
+TOTAL_NUM_ANNOTATIONS	: 373 of 6985 annotated genes (5.34%)
+ANNOTATED_GENES	: YDR449C, YEL026W, YER127W, YGR159C, YHR066W, YHR196W, YJL069C, YLR264W, YMR093W, YNL112W, YNL182C, YOL041C, YOL080C
+
+TERM	ribosomal large subunit biogenesis
+GOID	GO:0042273
+NUM_ANNOTATIONS	: 8 of 48 genes (16.67%)
+TOTAL_NUM_ANNOTATIONS	: 128 of 6985 annotated genes (1.83%)
+ANNOTATED_GENES	: YCR072C, YDL063C, YHR066W, YIR012W, YJL122W, YNL182C, YOL041C, YOL080C
+
+TERM	organelle assembly
+GOID	GO:0070925
+NUM_ANNOTATIONS	: 8 of 48 genes (16.67%)
+TOTAL_NUM_ANNOTATIONS	: 214 of 6985 annotated genes (3.06%)
+ANNOTATED_GENES	: YCR072C, YGR159C, YHR066W, YIR012W, YLR180W, YLR264W, YNL182C, YOL080C
+
+TERM	ribosomal small subunit biogenesis
+GOID	GO:0042274
+NUM_ANNOTATIONS	: 8 of 48 genes (16.67%)
+TOTAL_NUM_ANNOTATIONS	: 148 of 6985 annotated genes (2.12%)
+ANNOTATED_GENES	: YDR449C, YEL026W, YER127W, YGR159C, YHR196W, YJL069C, YLR264W, YMR093W
+
+TERM	ribosome assembly
+GOID	GO:0042255
+NUM_ANNOTATIONS	: 7 of 48 genes (14.58%)
+TOTAL_NUM_ANNOTATIONS	: 83 of 6985 annotated genes (1.19%)
+ANNOTATED_GENES	: YCR072C, YGR159C, YHR066W, YIR012W, YLR264W, YNL182C, YOL080C
+
+TERM	transmembrane transport
+GOID	GO:0055085
+NUM_ANNOTATIONS	: 7 of 48 genes (14.58%)
+TOTAL_NUM_ANNOTATIONS	: 491 of 6985 annotated genes (7.03%)
+ANNOTATED_GENES	: YDR536W, YHR094C, YJL107C, YJL108C, YKL120W, YNL065W, YOR271C
+
+TERM	transcription by RNA polymerase I
+GOID	GO:0006360
+NUM_ANNOTATIONS	: 5 of 48 genes (10.42%)
+TOTAL_NUM_ANNOTATIONS	: 78 of 6985 annotated genes (1.12%)
+ANNOTATED_GENES	: YHR196W, YJL148W, YJR063W, YML043C, YMR093W
+
+TERM	carbohydrate metabolic process
+GOID	GO:0005975
+NUM_ANNOTATIONS	: 5 of 48 genes (10.42%)
+TOTAL_NUM_ANNOTATIONS	: 291 of 6985 annotated genes (4.17%)
+ANNOTATED_GENES	: YBR105C, YBR299W, YER062C, YKR097W, YOL136C
+
+TERM	amino acid metabolic process
+GOID	GO:0006520
+NUM_ANNOTATIONS	: 4 of 48 genes (8.33%)
+TOTAL_NUM_ANNOTATIONS	: 256 of 6985 annotated genes (3.66%)
+ANNOTATED_GENES	: YBL039C, YDR037W, YLR180W, YMR300C
+
+TERM	nucleobase-containing small molecule metabolic process
+GOID	GO:0055086
+NUM_ANNOTATIONS	: 4 of 48 genes (8.33%)
+TOTAL_NUM_ANNOTATIONS	: 246 of 6985 annotated genes (3.52%)
+ANNOTATED_GENES	: YBL039C, YMR300C, YNL141W, YOL136C
+
+TERM	RNA catabolic process
+GOID	GO:0006401
+NUM_ANNOTATIONS	: 4 of 48 genes (8.33%)
+TOTAL_NUM_ANNOTATIONS	: 180 of 6985 annotated genes (2.58%)
+ANNOTATED_GENES	: YGR159C, YLR264W, YNL112W, YOR359W
+
+TERM	monoatomic ion transport
+GOID	GO:0006811
+NUM_ANNOTATIONS	: 4 of 48 genes (8.33%)
+TOTAL_NUM_ANNOTATIONS	: 235 of 6985 annotated genes (3.36%)
+ANNOTATED_GENES	: YDR536W, YHR094C, YNR060W, YOR271C
+
+TERM	nuclear transport
+GOID	GO:0051169
+NUM_ANNOTATIONS	: 3 of 48 genes (6.25%)
+TOTAL_NUM_ANNOTATIONS	: 191 of 6985 annotated genes (2.73%)
+ANNOTATED_GENES	: YDL063C, YHR196W, YLR264W
+
+TERM	protein transport
+GOID	GO:0015031
+NUM_ANNOTATIONS	: 3 of 48 genes (6.25%)
+TOTAL_NUM_ANNOTATIONS	: 646 of 6985 annotated genes (9.25%)
+ANNOTATED_GENES	: YBR105C, YDL063C, YOR359W
+
+TERM	mRNA processing
+GOID	GO:0006397
+NUM_ANNOTATIONS	: 3 of 48 genes (6.25%)
+TOTAL_NUM_ANNOTATIONS	: 241 of 6985 annotated genes (3.45%)
+ANNOTATED_GENES	: YEL026W, YGR159C, YPL212C
+
+TERM	regulation of translation
+GOID	GO:0006417
+NUM_ANNOTATIONS	: 3 of 48 genes (6.25%)
+TOTAL_NUM_ANNOTATIONS	: 240 of 6985 annotated genes (3.44%)
+ANNOTATED_GENES	: YLR264W, YNL112W, YOR359W
+
+TERM	proteolysis involved in protein catabolic process
+GOID	GO:0051603
+NUM_ANNOTATIONS	: 2 of 48 genes (4.17%)
+TOTAL_NUM_ANNOTATIONS	: 285 of 6985 annotated genes (4.08%)
+ANNOTATED_GENES	: YBR105C, YLR224W
+
+TERM	RNA modification
+GOID	GO:0009451
+NUM_ANNOTATIONS	: 2 of 48 genes (4.17%)
+TOTAL_NUM_ANNOTATIONS	: 195 of 6985 annotated genes (2.79%)
+ANNOTATED_GENES	: YOL124C, YPL212C
+
+TERM	DNA-templated transcription termination
+GOID	GO:0006353
+NUM_ANNOTATIONS	: 2 of 48 genes (4.17%)
+TOTAL_NUM_ANNOTATIONS	: 45 of 6985 annotated genes (0.64%)
+ANNOTATED_GENES	: YJR063W, YNL112W
+
+TERM	nucleobase-containing compound transport
+GOID	GO:0015931
+NUM_ANNOTATIONS	: 2 of 48 genes (4.17%)
+TOTAL_NUM_ANNOTATIONS	: 184 of 6985 annotated genes (2.63%)
+ANNOTATED_GENES	: YHR196W, YLR264W
+
+TERM	amino acid transport
+GOID	GO:0006865
+NUM_ANNOTATIONS	: 2 of 48 genes (4.17%)
+TOTAL_NUM_ANNOTATIONS	: 59 of 6985 annotated genes (0.84%)
+ANNOTATED_GENES	: YNL065W, YOR271C
+
+TERM	carbohydrate transport
+GOID	GO:0008643
+NUM_ANNOTATIONS	: 2 of 48 genes (4.17%)
+TOTAL_NUM_ANNOTATIONS	: 52 of 6985 annotated genes (0.74%)
+ANNOTATED_GENES	: YDR536W, YHR094C
+
+TERM	RNA splicing
+GOID	GO:0008380
+NUM_ANNOTATIONS	: 2 of 48 genes (4.17%)
+TOTAL_NUM_ANNOTATIONS	: 166 of 6985 annotated genes (2.38%)
+ANNOTATED_GENES	: YEL026W, YGR159C
+
+TERM	lipid metabolic process
+GOID	GO:0006629
+NUM_ANNOTATIONS	: 2 of 48 genes (4.17%)
+TOTAL_NUM_ANNOTATIONS	: 361 of 6985 annotated genes (5.17%)
+ANNOTATED_GENES	: YBL039C, YOL151W
+
+TERM	response to chemical
+GOID	GO:0042221
+NUM_ANNOTATIONS	: 2 of 48 genes (4.17%)
+TOTAL_NUM_ANNOTATIONS	: 526 of 6985 annotated genes (7.53%)
+ANNOTATED_GENES	: YLR224W, YOR271C
+
+TERM	regulation of DNA metabolic process
+GOID	GO:0051052
+NUM_ANNOTATIONS	: 2 of 48 genes (4.17%)
+TOTAL_NUM_ANNOTATIONS	: 134 of 6985 annotated genes (1.92%)
+ANNOTATED_GENES	: YNL182C, YOR359W
+
+TERM	transcription by RNA polymerase II
+GOID	GO:0006366
+NUM_ANNOTATIONS	: 2 of 48 genes (4.17%)
+TOTAL_NUM_ANNOTATIONS	: 566 of 6985 annotated genes (8.10%)
+ANNOTATED_GENES	: YJR063W, YNL112W
+
+TERM	tRNA processing
+GOID	GO:0008033
+NUM_ANNOTATIONS	: 2 of 48 genes (4.17%)
+TOTAL_NUM_ANNOTATIONS	: 147 of 6985 annotated genes (2.10%)
+ANNOTATED_GENES	: YOL124C, YPL212C
+
+TERM	DNA replication
+GOID	GO:0006260
+NUM_ANNOTATIONS	: 1 of 48 genes (2.08%)
+TOTAL_NUM_ANNOTATIONS	: 165 of 6985 annotated genes (2.36%)
+ANNOTATED_GENES	: YNL182C
+
+TERM	DNA-templated transcription initiation
+GOID	GO:0006352
+NUM_ANNOTATIONS	: 1 of 48 genes (2.08%)
+TOTAL_NUM_ANNOTATIONS	: 95 of 6985 annotated genes (1.36%)
+ANNOTATED_GENES	: YML043C
+
+TERM	DNA-templated transcription elongation
+GOID	GO:0006354
+NUM_ANNOTATIONS	: 1 of 48 genes (2.08%)
+TOTAL_NUM_ANNOTATIONS	: 114 of 6985 annotated genes (1.63%)
+ANNOTATED_GENES	: YJL148W
+
+TERM	protein targeting
+GOID	GO:0006605
+NUM_ANNOTATIONS	: 1 of 48 genes (2.08%)
+TOTAL_NUM_ANNOTATIONS	: 267 of 6985 annotated genes (3.82%)
+ANNOTATED_GENES	: YBR105C
+
+TERM	generation of precursor metabolites and energy
+GOID	GO:0006091
+NUM_ANNOTATIONS	: 1 of 48 genes (2.08%)
+TOTAL_NUM_ANNOTATIONS	: 227 of 6985 annotated genes (3.25%)
+ANNOTATED_GENES	: YOL136C
+
+TERM	cytoplasmic translation
+GOID	GO:0002181
+NUM_ANNOTATIONS	: 1 of 48 genes (2.08%)
+TOTAL_NUM_ANNOTATIONS	: 204 of 6985 annotated genes (2.92%)
+ANNOTATED_GENES	: YLR264W
+
+TERM	monocarboxylic acid metabolic process
+GOID	GO:0032787
+NUM_ANNOTATIONS	: 1 of 48 genes (2.08%)
+TOTAL_NUM_ANNOTATIONS	: 171 of 6985 annotated genes (2.45%)
+ANNOTATED_GENES	: YOL136C
+
+TERM	tRNA aminoacylation for protein translation
+GOID	GO:0006418
+NUM_ANNOTATIONS	: 1 of 48 genes (2.08%)
+TOTAL_NUM_ANNOTATIONS	: 38 of 6985 annotated genes (0.54%)
+ANNOTATED_GENES	: YDR037W
+
+TERM	oligosaccharide metabolic process
+GOID	GO:0009311
+NUM_ANNOTATIONS	: 1 of 48 genes (2.08%)
+TOTAL_NUM_ANNOTATIONS	: 54 of 6985 annotated genes (0.77%)
+ANNOTATED_GENES	: YBR299W
+
+TERM	DNA recombination
+GOID	GO:0006310
+NUM_ANNOTATIONS	: 1 of 48 genes (2.08%)
+TOTAL_NUM_ANNOTATIONS	: 268 of 6985 annotated genes (3.84%)
+ANNOTATED_GENES	: YGR159C
+
+TERM	response to osmotic stress
+GOID	GO:0006970
+NUM_ANNOTATIONS	: 1 of 48 genes (2.08%)
+TOTAL_NUM_ANNOTATIONS	: 72 of 6985 annotated genes (1.03%)
+ANNOTATED_GENES	: YER062C
+
+TERM	regulation of organelle organization
+GOID	GO:0033043
+NUM_ANNOTATIONS	: 1 of 48 genes (2.08%)
+TOTAL_NUM_ANNOTATIONS	: 269 of 6985 annotated genes (3.85%)
+ANNOTATED_GENES	: YLR180W
+
+TERM	protein modification by small protein conjugation or removal
+GOID	GO:0070647
+NUM_ANNOTATIONS	: 1 of 48 genes (2.08%)
+TOTAL_NUM_ANNOTATIONS	: 217 of 6985 annotated genes (3.11%)
+ANNOTATED_GENES	: YLR224W
+
+TERM	signaling
+GOID	GO:0023052
+NUM_ANNOTATIONS	: 1 of 48 genes (2.08%)
+TOTAL_NUM_ANNOTATIONS	: 447 of 6985 annotated genes (6.40%)
+ANNOTATED_GENES	: YOR360C
+
+TERM	intracellular monoatomic ion homeostasis
+GOID	GO:0006873
+NUM_ANNOTATIONS	: 1 of 48 genes (2.08%)
+TOTAL_NUM_ANNOTATIONS	: 159 of 6985 annotated genes (2.28%)
+ANNOTATED_GENES	: YNR060W
+
+TERM	pseudohyphal growth
+GOID	GO:0007124
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 74 of 6985 annotated genes (1.06%)
+ANNOTATED_GENES	: none
+
+1TERM	conjugation with cellular fusion
+GOID	GO:0000747
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 123 of 6985 annotated genes (1.76%)
+ANNOTATED_GENES	: none
+
+1TERM	cell budding
+GOID	GO:0007114
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 53 of 6985 annotated genes (0.76%)
+ANNOTATED_GENES	: none
+
+1TERM	invasive growth in response to glucose limitation
+GOID	GO:0001403
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 53 of 6985 annotated genes (0.76%)
+ANNOTATED_GENES	: none
+
+1TERM	cell wall organization or biogenesis
+GOID	GO:0071554
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 299 of 6985 annotated genes (4.28%)
+ANNOTATED_GENES	: none
+
+1TERM	protein folding
+GOID	GO:0006457
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 127 of 6985 annotated genes (1.82%)
+ANNOTATED_GENES	: none
+
+1TERM	protein alkylation
+GOID	GO:0008213
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 53 of 6985 annotated genes (0.76%)
+ANNOTATED_GENES	: none
+
+1TERM	organelle inheritance
+GOID	GO:0048308
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 55 of 6985 annotated genes (0.79%)
+ANNOTATED_GENES	: none
+
+1TERM	response to heat
+GOID	GO:0009408
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 51 of 6985 annotated genes (0.73%)
+ANNOTATED_GENES	: none
+
+1TERM	protein acylation
+GOID	GO:0043543
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 80 of 6985 annotated genes (1.15%)
+ANNOTATED_GENES	: none
+
+1TERM	mitochondrion organization
+GOID	GO:0007005
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 302 of 6985 annotated genes (4.32%)
+ANNOTATED_GENES	: none
+
+1TERM	response to oxidative stress
+GOID	GO:0006979
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 127 of 6985 annotated genes (1.82%)
+ANNOTATED_GENES	: none
+
+1TERM	translational initiation
+GOID	GO:0006413
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 83 of 6985 annotated genes (1.19%)
+ANNOTATED_GENES	: none
+
+1TERM	vacuole organization
+GOID	GO:0007033
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 113 of 6985 annotated genes (1.62%)
+ANNOTATED_GENES	: none
+
+1TERM	regulation of cell cycle
+GOID	GO:0051726
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 304 of 6985 annotated genes (4.35%)
+ANNOTATED_GENES	: none
+
+1TERM	transposition
+GOID	GO:0032196
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 110 of 6985 annotated genes (1.57%)
+ANNOTATED_GENES	: none
+
+1TERM	mitotic cell cycle
+GOID	GO:0000278
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 390 of 6985 annotated genes (5.58%)
+ANNOTATED_GENES	: none
+
+1TERM	protein glycosylation
+GOID	GO:0006486
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 86 of 6985 annotated genes (1.23%)
+ANNOTATED_GENES	: none
+
+1TERM	chromosome segregation
+GOID	GO:0007059
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 223 of 6985 annotated genes (3.19%)
+ANNOTATED_GENES	: none
+
+1TERM	lipid transport
+GOID	GO:0006869
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 79 of 6985 annotated genes (1.13%)
+ANNOTATED_GENES	: none
+
+1TERM	membrane fusion
+GOID	GO:0061025
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 68 of 6985 annotated genes (0.97%)
+ANNOTATED_GENES	: none
+
+1TERM	meiotic cell cycle
+GOID	GO:0051321
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 327 of 6985 annotated genes (4.68%)
+ANNOTATED_GENES	: none
+
+1TERM	endosomal transport
+GOID	GO:0016197
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 118 of 6985 annotated genes (1.69%)
+ANNOTATED_GENES	: none
+
+1TERM	cell morphogenesis
+GOID	GO:0000902
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 37 of 6985 annotated genes (0.53%)
+ANNOTATED_GENES	: none
+
+1TERM	ribosomal subunit export from nucleus
+GOID	GO:0000054
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 55 of 6985 annotated genes (0.79%)
+ANNOTATED_GENES	: none
+
+1TERM	protein lipidation
+GOID	GO:0006497
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 53 of 6985 annotated genes (0.76%)
+ANNOTATED_GENES	: none
+
+1TERM	telomere organization
+GOID	GO:0032200
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 141 of 6985 annotated genes (2.02%)
+ANNOTATED_GENES	: none
+
+1TERM	chromatin organization
+GOID	GO:0006325
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 309 of 6985 annotated genes (4.42%)
+ANNOTATED_GENES	: none
+
+1TERM	nucleus organization
+GOID	GO:0006997
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 104 of 6985 annotated genes (1.49%)
+ANNOTATED_GENES	: none
+
+1TERM	organelle fission
+GOID	GO:0048285
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 277 of 6985 annotated genes (3.97%)
+ANNOTATED_GENES	: none
+
+1TERM	regulation of protein modification process
+GOID	GO:0031399
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 143 of 6985 annotated genes (2.05%)
+ANNOTATED_GENES	: none
+
+1TERM	histone modification
+GOID	GO:0016570
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 139 of 6985 annotated genes (1.99%)
+ANNOTATED_GENES	: none
+
+1TERM	membrane invagination
+GOID	GO:0010324
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 1 of 6985 annotated genes (0.01%)
+ANNOTATED_GENES	: none
+
+1TERM	Golgi vesicle transport
+GOID	GO:0048193
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 216 of 6985 annotated genes (3.09%)
+ANNOTATED_GENES	: none
+
+1TERM	peroxisome organization
+GOID	GO:0007031
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 59 of 6985 annotated genes (0.84%)
+ANNOTATED_GENES	: none
+
+1TERM	vitamin metabolic process
+GOID	GO:0006766
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 64 of 6985 annotated genes (0.92%)
+ANNOTATED_GENES	: none
+
+1TERM	cytokinesis
+GOID	GO:0000910
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 105 of 6985 annotated genes (1.50%)
+ANNOTATED_GENES	: none
+
+1TERM	protein phosphorylation
+GOID	GO:0006468
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 221 of 6985 annotated genes (3.16%)
+ANNOTATED_GENES	: none
+
+1TERM	cytoskeleton organization
+GOID	GO:0007010
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 284 of 6985 annotated genes (4.07%)
+ANNOTATED_GENES	: none
+
+1TERM	translational elongation
+GOID	GO:0006414
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 350 of 6985 annotated genes (5.01%)
+ANNOTATED_GENES	: none
+
+1TERM	regulation of transport
+GOID	GO:0051049
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 104 of 6985 annotated genes (1.49%)
+ANNOTATED_GENES	: none
+
+1TERM	vesicle organization
+GOID	GO:0016050
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 114 of 6985 annotated genes (1.63%)
+ANNOTATED_GENES	: none
+
+1TERM	organelle fusion
+GOID	GO:0048284
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 124 of 6985 annotated genes (1.78%)
+ANNOTATED_GENES	: none
+
+1TERM	mitochondrial translation
+GOID	GO:0032543
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 175 of 6985 annotated genes (2.51%)
+ANNOTATED_GENES	: none
+
+1TERM	protein dephosphorylation
+GOID	GO:0006470
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 56 of 6985 annotated genes (0.80%)
+ANNOTATED_GENES	: none
+
+1TERM	endocytosis
+GOID	GO:0006897
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 136 of 6985 annotated genes (1.95%)
+ANNOTATED_GENES	: none
+
+1TERM	cellular respiration
+GOID	GO:0045333
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 122 of 6985 annotated genes (1.75%)
+ANNOTATED_GENES	: none
+
+1TERM	sno(s)RNA processing
+GOID	GO:0043144
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 47 of 6985 annotated genes (0.67%)
+ANNOTATED_GENES	: none
+
+1TERM	cellular response to DNA damage stimulus
+GOID	GO:0006974
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 373 of 6985 annotated genes (5.34%)
+ANNOTATED_GENES	: none
+
+1TERM	peptidyl-amino acid modification
+GOID	GO:0018193
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 201 of 6985 annotated genes (2.88%)
+ANNOTATED_GENES	: none
+
+1TERM	DNA repair
+GOID	GO:0006281
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 323 of 6985 annotated genes (4.62%)
+ANNOTATED_GENES	: none
+
+1TERM	sporulation
+GOID	GO:0043934
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 171 of 6985 annotated genes (2.45%)
+ANNOTATED_GENES	: none
+
+1TERM	response to starvation
+GOID	GO:0042594
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 78 of 6985 annotated genes (1.12%)
+ANNOTATED_GENES	: none
+
+1TERM	protein maturation
+GOID	GO:0051604
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 101 of 6985 annotated genes (1.45%)
+ANNOTATED_GENES	: none
+
+1TERM	transcription by RNA polymerase III
+GOID	GO:0006383
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 48 of 6985 annotated genes (0.69%)
+ANNOTATED_GENES	: none
+
+1TERM	exocytosis
+GOID	GO:0006887
+NUM_ANNOTATIONS	: 0 of 48 genes (0%)
+TOTAL_NUM_ANNOTATIONS	: 50 of 6985 annotated genes (0.72%)
+ANNOTATED_GENES	: none
