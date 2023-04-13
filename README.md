@@ -10,3 +10,7 @@ List of the problems:
 * Project #2. “Why did I get the flu?” (Deep sequencing, error control, p-value, viral evolution)
 * Project #3. “*E.coli* outbreak investigation” (De novo assembly)
 * Project #4. “Tardigrades: from genestealers to space marines“ (Eukaryotic genome analysis)
+* Project #5. “H+, or how to build a perfect human.“ (SNP analysis, genotyping)
+* Project #6. “RNA-seq. Baking Bread.“ (Differential RNA expression analysis)
+* Project #7. “Dead Man’s Teeth“ (Introduction to metagenomics)
+* Project #8. “Immune repertoire annotation: a RepSeq data analysis tutorial“ (Immune Repertoire Sequencing data analysis)
