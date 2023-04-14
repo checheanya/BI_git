@@ -1,6 +1,8 @@
 ## Project #8. “Immune repertoire annotation: a RepSeq data analysis tutorial“ (Immune Repertoire Sequencing data analysis)
 
-> Anna Chechenina, April 2023, Bioinformatics Institute
+> Anna Chechenina, Kristina Zheltova
+
+> April 2023, Bioinformatics Institute
 
 In this repo you can find:
 * task file with goals and described steps
@@ -14,8 +16,6 @@ We reproduced the code in the rmarkdown file from the tutorial, previously insta
 <p><code>install.packages(c("data.table","dplyr","reshape2","ggplot2","NMF","scales","forcats","parallel","stringr"))</code>.</p>
 
 Based on the performed analysis we build a table (.tsv file) identifying cell types for each sample.
-As we know, memory CD8 T-cells have lower diversity, whereas CD4 memory cells were the second less diverse subjects. To determine CMV status we compared epitope recognition
+As we know, memory CD8 T-cells have lower diversity, whereas CD4 memory cells were the second less diverse subjects. To determine CMV status we compared epitope recognition pattern.
 
-Patients were distinguished by their HLA and antigen recognition. Naive cells were assigned to patients by comparison of the gene usage frequencies between them and memory cells. Their subsets were defined by analyzing their diversity and similarity with the matched memory cells samples.
-
-
+For the patients recognition we used HLA and antigen recognition values, which were the same for the same patient. Naive T-cells were assigned to patients by comparison of the frequencies of different genes usege and the difference between them and memory cells. Their subsets were defined by analyzing diversity and similarity with the matched memory cells samples.
