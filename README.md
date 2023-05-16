@@ -1,8 +1,8 @@
-# Bioinformatics Workshop course in Bioinfrmatics Institute 2022
+# Bioinformatics Workshop course in Bioinfrmatics Institute 2022-23
 
 > *by Anna Chechenina*
 
-In this repo you can find data and reports on Bioinformatics Workshop course (first semester, BI2022). Each folder corresponds to the mini-project, there you can find raw data, task statement, lab notebook and a final report.
+In this repo you can find data and reports on Bioinformatics Workshop course. Each folder corresponds to the mini-project, there you can find raw data, task statement, lab notebook and a final report.
 
 List of the problems:
 
