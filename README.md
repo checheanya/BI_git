@@ -1,4 +1,4 @@
-# Bioinformatics Workshop course in Bioinfrmatics Institute 2022-23
+# Bioinformatics Workshop course in Bioinformatics Institute 2022-23
 
 > *by Anna Chechenina*
 
